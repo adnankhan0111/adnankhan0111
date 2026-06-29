@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **ak786lawa@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently finding an internship:** For Full Stack mern developer
+- 🔭 **I’m currently looking for an internship or job role:** For Full Stack mern developer
 - 🌱 **I’m currently learning:** Web development with deployemnt on live servers
 - 👯 **I’m looking to collaborate on:** Web Application Project
 - 💬 **Ask me about:** Collaboration, Tech Support
